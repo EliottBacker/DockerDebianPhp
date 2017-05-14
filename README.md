@@ -2,7 +2,7 @@
 This image allows to get Apache and PHP running on Docker.
 
 # Usage
-## Getting omage from a registry
+## Getting image from a registry
 To pull an image from a registry, simply start the container using the following command:
 ```
 docker pull eliottbacker/debian-php
